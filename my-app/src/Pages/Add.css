@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.addCartBack {
+    background-color: #4fe084;
+    height: 300px;
+}
+
+.custom-control.custom-switch {
+    padding-left: 0;
+}

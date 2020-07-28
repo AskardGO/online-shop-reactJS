@@ -1,5 +1,6 @@
 # online-shop-reactJS
- Online shop. Was made with ReactJS 
+ Online shop. Was made with ReactJS.
+ 
  Technologies (currently):
  
  - React JS
